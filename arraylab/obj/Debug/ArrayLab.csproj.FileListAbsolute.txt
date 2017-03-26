@@ -1,0 +1,12 @@
+D:\app\my\ArrayLab\ArrayLab\bin\Debug\ArrayLab.exe.config
+D:\app\my\ArrayLab\ArrayLab\bin\Debug\ArrayLab.exe
+D:\app\my\ArrayLab\ArrayLab\bin\Debug\ArrayLab.pdb
+D:\app\my\ArrayLab\ArrayLab\obj\Debug\ArrayLab.csprojResolveAssemblyReference.cache
+D:\app\my\ArrayLab\ArrayLab\obj\Debug\ArrayLab.exe
+D:\app\my\ArrayLab\ArrayLab\obj\Debug\ArrayLab.pdb
+C:\app\my\ArrayLab\ArrayLab\bin\Debug\ArrayLab.exe.config
+C:\app\my\ArrayLab\ArrayLab\obj\Debug\ArrayLab.exe
+C:\app\my\ArrayLab\ArrayLab\obj\Debug\ArrayLab.pdb
+C:\app\my\ArrayLab\ArrayLab\bin\Debug\ArrayLab.exe
+C:\app\my\ArrayLab\ArrayLab\bin\Debug\ArrayLab.pdb
+C:\app\my\ArrayLab\ArrayLab\obj\Debug\ArrayLab.csprojResolveAssemblyReference.cache
